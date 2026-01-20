@@ -32,7 +32,7 @@ This analyzes mobile phone sales data to provide insights into overall business 
 ## Dashboard image 
 <img width="884" height="496" alt="mobile sale dasboard screensht" src="https://github.com/user-attachments/assets/9a500999-9b9c-4015-9e3e-2d4d746b3734" />
 
-#Project Insights
+# Project Insights
 
 -Mobile sales are strongly driven by metro cities, indicating higher demand in urban regions.
 -Premium and mid-range mobile models contribute the most to total revenue.
