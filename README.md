@@ -21,3 +21,26 @@ This analyzes mobile phone sales data to provide insights into overall business 
 
 ## Dashboard link
 - <a href="https://github.com/anshika616/Data-analysis-Dashboard/blob/main/mobile%20sale%20dasboard%20screensht.png">View Dashboard</a>
+
+# Process using powerbi
+- Collected and prepared mobile sales data.
+- Cleaned and transformed data using Power Query.
+- Built data relationships and created key DAX measures (Total Sales, Quantity, Transactions, Average Price).
+- Designed interactive visuals and slicers for analysis.
+- Analyzed trends and published the dashboard using Power BI Service.
+
+## Dashboard image 
+<img width="884" height="496" alt="mobile sale dasboard screensht" src="https://github.com/user-attachments/assets/9a500999-9b9c-4015-9e3e-2d4d746b3734" />
+
+#Project Insights
+
+-Mobile sales are strongly driven by metro cities, indicating higher demand in urban regions.
+-Premium and mid-range mobile models contribute the most to total revenue.
+-Sales show seasonal trends, with higher demand during certain months and weekdays.
+-Digital payment methods, especially UPI, are the most preferred among customers.
+-Customer feedback is largely positive, reflecting high satisfaction levels.
+-Top brands such as Apple, Samsung, and OnePlus dominate both sales and transactions.
+
+# Final conclusions
+
+The Mobile Sales Dashboard effectively provides a 360-degree view of sales performance, customer behavior, and market trends. By combining interactive visuals with key metrics, the dashboard enables businesses to identify top-performing products, optimize inventory, improve marketing strategies, and enhance decision-making. Overall, this project demonstrates the practical use of Power BI for transforming raw sales data into meaningful business insights.
