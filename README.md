@@ -1,11 +1,11 @@
-# Mobile-Sales-Data-Analysis(Interactive dashboard using powerbi)
+# Mobile-Sales-Data-Analysis(Interactive dashboard using PowerBi)
 ## Project Objective
 This analyzes mobile phone sales data to provide insights into overall business performance. It highlights key metrics such as total sales, total quantity sold, total transactions, and average selling price, along with interactive filters for month, brand, mobile model, and payment method.
 
 ## Dataset used
-- <a href="https://github.com/anshika616/Data-analysis-Dashboard/blob/main/mobile%20sales%20data.xlsx">Mobile sales data</a>
-- <a href="https://github.com/anshika616/Data-analysis-Dashboard/blob/main/mobile%20sales%20data%202.xlsx">Mobile sales data</a>
-- <a href="https://github.com/anshika616/Data-analysis-Dashboard/blob/main/mobile%20sales%20data%203.csv">Mobile sales data</a>
+- <a href="https://github.com/anshika616/Data-analysis-Dashboard/blob/main/mobile%20sales%20data.xlsx">Transactional Data</a>
+- <a href="https://github.com/anshika616/Data-analysis-Dashboard/blob/main/mobile%20sales%20data%202.xlsx">Time Series Data data</a>
+- <a href="https://github.com/anshika616/Data-analysis-Dashboard/blob/main/mobile%20sales%20data%203.csv"> Sales data</a>
 
 # Questions (KPIs)
 -What is the total revenue, quantity sold, number of transactions, and average selling price of mobile phones?
@@ -22,7 +22,7 @@ This analyzes mobile phone sales data to provide insights into overall business 
 ## Dashboard link
 - <a href="https://github.com/anshika616/Data-analysis-Dashboard/blob/main/mobile%20sale%20dasboard%20screensht.png">View Dashboard</a>
 
-# Process using powerbi
+# Process using PowerBi
 - Collected and prepared mobile sales data.
 - Cleaned and transformed data using Power Query.
 - Built data relationships and created key DAX measures (Total Sales, Quantity, Transactions, Average Price).
