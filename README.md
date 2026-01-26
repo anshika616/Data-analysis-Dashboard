@@ -24,9 +24,13 @@ This analyzes mobile phone sales data to provide insights into overall business 
 
 # Process using PowerBi
 - Collected and prepared mobile sales data.
+- 
 - Cleaned and transformed data using Power Query.
+- 
 - Built data relationships and created key DAX measures (Total Sales, Quantity, Transactions, Average Price).
+- 
 - Designed interactive visuals and slicers for analysis.
+- 
 - Analyzed trends and published the dashboard using Power BI Service.
 
 ## Dashboard image 
